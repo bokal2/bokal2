@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bokal2
-- 👀 I’m interested in Web development, Mobile development, DevOps and Machine learning
-- 🌱 I’m currently learning C# and Dart(Flutter)
+- 👀 I’m interested in Backend development, Cloud, Data Engineering and DevOps
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on projects mainly EdTech and Ecommerce
 - 📫 How to reach me bobokal98@gmail.com
 

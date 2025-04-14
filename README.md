@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erick
-- 👀 I’m interested in Backend development, Cloud, Security, AI and DevOps
-- 🌱 I’m currently learning Gen AI and Cloud Security
+- 👀 I’m interested in Backend development, Cloud, AI Engineering, and DevOps
+- 🌱 I’m currently learning Gen AI and Data Engineering
 - 📫 How to reach me erick.okal0810@gmail.com
 
 <!---

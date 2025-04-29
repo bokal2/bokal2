@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erick
-- 👀 I’m interested in Backend development, AI Engineering, Data Engineering, Cloud and DevOps
+- 👀 I’m interested in Software development, AI Engineering, Data Engineering, Cloud and DevOps
 - 🌱 I’m currently learning Gen AI and LLMOps 
 - 📫 How to reach me erick.okal0810@gmail.com
 

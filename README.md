@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Erick
-- 👀 I’m interested in Software development, AI Engineering, Data Engineering, Cloud and DevOps
-- 🌱 I’m currently learning Gen AI and LLMOps 
+- 👀 I’m interested AI/ML Engineering, Data Engineering, Software Engineering, Cloud, MLOps, LLMOps and DevOps
 - 📫 How to reach me erick.okal0810@gmail.com
 
 <!---
